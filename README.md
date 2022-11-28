@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qiyunhai
-- 👀 I’m interested in PHP、JavaScript、MySQL、Linux
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in PHP、JavaScript、MySQL、Linux、Lua
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me QQ：156457917
 
